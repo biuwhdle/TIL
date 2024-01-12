@@ -6,7 +6,7 @@
 
 #### Unity
 
-- 레트로의 유니티 게임 프로그래밍 에센스 (이제민, 한빛미디어)
+- [레트로의 유니티 게임 프로그래밍 에센스 (이제민, 한빛미디어)](https://github.com/biuwhdle/TIL/tree/main/%EB%A0%88%ED%8A%B8%EB%A1%9C%EC%9D%98%20%EC%9C%A0%EB%8B%88%ED%8B%B0%20%EA%B2%8C%EC%9E%84%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%97%90%EC%84%BC%EC%8A%A4)
 
 #### 게임 기획
 
