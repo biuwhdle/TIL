@@ -2,7 +2,7 @@
 
 #### 독서
 
-- [1일 1로그 100일 완성 IT지식](https://github.com/biuwhdle/TIL/tree/main/1%EC%9D%BC%201%EB%A1%9C%EA%B7%B8%20100%EC%9D%BC%20%EC%99%84%EC%84%B1%20IT%EC%A7%80%EC%8B%9D)
+- [1일 1로그 100일 완성 IT지식 (브라이언 W. 커니핸, 인사이트)](https://github.com/biuwhdle/TIL/tree/main/1%EC%9D%BC%201%EB%A1%9C%EA%B7%B8%20100%EC%9D%BC%20%EC%99%84%EC%84%B1%20IT%EC%A7%80%EC%8B%9D)
 - 0년차 게임개발 (김다훈, 박소현, 이재호, 주진영, 책판)
 - 나는 서비스 기획자입니다 (권자경, 형나윤, 하일 스튜디오)
 - 시드 마이어: 컴퓨터 게임과 함께한 인생 (시드 마이어, 제니퍼 리 누넌, 영진닷컴)
