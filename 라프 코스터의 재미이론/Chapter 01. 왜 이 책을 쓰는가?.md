@@ -15,11 +15,11 @@
   - NP complete: 답이 맞는지 아닌지는 polynomial time에 풀 수 있음
   - NP hard: 정답을 판단할 수 없음
 
-- 교점을 활용하는 게임
+- 교점을 활용하는 게임 (p.30)
   - 게임 말을 조언에 따라 배치하는 게임
   - 교점(vertex), 변(edge)
 
 #### 의문
 
-- novel experiences: 새로운 경험
+- novel experiences: 새로운 경험 (p.26)
   - 어떤 맥락에서 사용하는 단어인지 이해하지 못함. 단순한 '새로운 경험'인지, 다른 의미가 숨겨져 있는지?
