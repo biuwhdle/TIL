@@ -9,15 +9,15 @@
 #### 키워드 관련 공부
 
 - 틱택토가 NP-난해(NP-hard)인지 NP-완전(NP-complete)인지 (p.24)
-  > 학교의 '알고리즘' 수업 참고
-  >> P=NP. polynomial로 풀 수 있음
-  >> NP: polynomial time에 풀 수 있는 방법을 모름
-  >> NP complete: 답이 맞는지 아닌지는 polynomial time에 풀 수 있음
-  >> NP hard: 정답을 판단할 수 없음
+  - 학교의 '알고리즘' 수업 참고
+  - P=NP. polynomial로 풀 수 있음
+  - NP: polynomial time에 풀 수 있는 방법을 모름
+  - NP complete: 답이 맞는지 아닌지는 polynomial time에 풀 수 있음
+  - NP hard: 정답을 판단할 수 없음
 
 - 교점을 활용하는 게임
-  > 게임 말을 조언에 따라 배치하는 게임
-  > 교점(vertex), 변(edge)
+  - 게임 말을 조언에 따라 배치하는 게임
+  - 교점(vertex), 변(edge)
 
 #### 의문
 
