@@ -15,5 +15,5 @@
 
 #### 게임 기획
 
-- 라프 코스터의 재미이론 (라프 코스터, 길벗)
+- [라프 코스터의 재미이론 (라프 코스터, 길벗)](https://github.com/biuwhdle/TIL/tree/main/%EB%9D%BC%ED%94%84%20%EC%BD%94%EC%8A%A4%ED%84%B0%EC%9D%98%20%EC%9E%AC%EB%AF%B8%EC%9D%B4%EB%A1%A0)
 - 게임 디자이너를 위한 문서 작성 기술 (주진영, 성안당)
